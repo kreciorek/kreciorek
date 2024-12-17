@@ -1,6 +1,6 @@
-hi im krecior, starting android dev lol. (im learning from others 🙏)
--t.me/kret2poor
--discord//uojk
+//// im krecior
+lain@gentoo ~/ $ cat krecior.md
+t.me/kret2poor
 
 
 
