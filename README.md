@@ -1,6 +1,8 @@
 //// im krecior
+////
 lain@gentoo ~/ $ cat krecior.md
-t.me/kret2poor
+t.me/kret2poor, discord: 1cgn
+
 
 
 
