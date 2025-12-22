@@ -1,8 +1,8 @@
-//// im krecior ////
+egglo to jest the most independent international knowledge movement
 
 lain@gentoo ~/ $ cat krecior.md
 
-t.me/kret2poor, discord: 1cgo
+t.me/estrogeniarz, discord: 1cgo
 
 
 
