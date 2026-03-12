@@ -1,8 +1,8 @@
 egglo to jest the most independent international knowledge movement
 
-lain@gentoo ~/ $ cat krecior.md
+~/ $ cat krecior.md
 
-t.me/estrogeniarz, discord: 1cgo
+t.me/estrogeniarz, discord: 1cgo ,ukrainahook.xyz
 
 
 
